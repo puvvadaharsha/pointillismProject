@@ -12,14 +12,20 @@ The program takes an input image and converts it into a pointillistic one.
 
 ### Example Output:
 
-Original Input:
+Original Input:  
+
+
 ![People sitting](./output/shrunkImage.jpg)
 
-Computed Color Palette from KMeans clustering:
+Computed Color Palette from KMeans clustering:  
+
+
 ![Color Palette](./output/originalPaletteColors.jpg)
 
-Output:
-![People Sitting Pointillized](./output/pointillizedImage.jpg)
+Output:  
 
+
+![People Sitting Pointillized](./output/pointillizedImage.jpg)
+  
 
 There  more example images in the results folder.

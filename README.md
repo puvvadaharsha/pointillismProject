@@ -16,7 +16,7 @@ Original Input:
 ![People sitting](./output/shrunkImage.jpg)
 
 Computed Color Palette from KMeans clustering:
-![Color Palette](./output/orginalPaletteColors.jpg)
+![Color Palette](./output/originalPaletteColors.jpg)
 
 Output:
 ![People Sitting Pointillized](./output/pointillizedImage.jpg)

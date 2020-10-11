@@ -11,10 +11,15 @@ The program takes an input image and converts it into a pointillistic one.
 * Closest color chosen from palette to paint onto base image
 
 ### Example Output:
+
 Original Input:
-![Orange Tabby Cat](./images/image1.jpg)
+![People sitting](./output/shrunkImage.jpg)
+
+Computed Color Palette from KMeans clustering:
+![Color Palette](./output/orginalPaletteColors.jpg)
 
 Output:
-![Pointillized Orange Tabby Cat](./results/cat.jpg)
+![People Sitting Pointillized](./output/pointillizedImage.jpg)
+
 
 There  more example images in the results folder.
